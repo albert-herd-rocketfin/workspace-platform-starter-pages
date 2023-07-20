@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "appId": "rocketfin-beacon-demo",
+        "name": "rocketfin-beacon-demo",
+        "title": "RocketFin VAR Application",
+        "description": "Rocketfin beacon.",
+        "manifest": "https://raw.githubusercontent.com/albert-herd-rocketfin/openfin-mga-server/master/views/rocketfin-var-app-view.json",
+        "manifestType": "view",
+        "contactEmail": "contact@example.com",
+        "supportEmail": "support@example.com",
+        "publisher": "RocketFin",
+        "intents": [
+            {
+                "name": "ViewChart",
+                "displayName": "View Chart",
+                "contexts": ["fdc3.instrument", "fdc3.instrumentList", "fdc3.portfolio", "fdc3.position"],
+                "customConfig": {}
+            }
+        ],
+        "images": [],
+        "tags": ["rocketfin"]
+    }
+]
