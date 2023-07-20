@@ -154,18 +154,7 @@
 		},
 		"appProvider": {
 			"endpointIds": [
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-contact.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-expero.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-interop.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-manager.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-native.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-dev-extensions.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-preload.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/apps-tools.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/apps.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/apps-fdc3-1-2.json",
-				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/apps-fdc3-2-0.json"
+				"https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/apps.json"
 			],
 			"cacheDurationInSeconds": 10,
 			"cacheDurationInMinutes": 0,
@@ -753,50 +742,6 @@
 							"url": "https://albert-herd-rocketfin.github.io/bdc-app"
 						}
 					}
-				},
-				{
-					"tooltip": "Social",
-					"iconUrl": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/icons/{theme}/{scheme}/share.svg",
-					"options": [
-						{
-							"tooltip": "Twitter",
-							"action": {
-								"id": "launch-view",
-								"customData": {
-									"url": "https://twitter.com/openfintech"
-								}
-							}
-						},
-						{
-							"tooltip": "YouTube",
-							"action": {
-								"id": "launch-view",
-								"customData": {
-									"url": "https://www.youtube.com/user/OpenFinTech"
-								}
-							}
-						}
-					]
-				},
-				{
-					"tooltip": "Window Visibility",
-					"iconUrl": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/icons/{theme}/{scheme}/windows.svg",
-					"options": [
-						{
-							"tooltip": "Show All Windows",
-							"action": {
-								"id": "window-show-all",
-								"customData": {}
-							}
-						},
-						{
-							"tooltip": "Hide All Windows",
-							"action": {
-								"id": "window-hide-all",
-								"customData": {}
-							}
-						}
-					]
 				}
 			]
 		},
