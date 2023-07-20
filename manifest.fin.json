@@ -741,31 +741,16 @@
 					"tooltip": "RocketFin Trigger Data",
 					"iconUrl": "https://assets.website-files.com/5bb0068c1270ad1887e1c172/5bc86650e1f4046f0103e3c4_RocketFin_Favicon32.png",
 					"tags": ["rocketfin"]
-				},
-				{
-					"display": "individual",
-					"tags": ["dock"]
-				},
-				{
-					"display": "group",
-					"tooltip": "FDC3",
-					"tags": ["fdc3"]
-				},
-				{
-					"display": "group",
-					"tooltip": "Manager",
-					"iconUrl": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/common/images/icon-gradient.png",
-					"tags": ["manager"]
 				}
 			],
 			"buttons": [
 				{
-					"tooltip": "Google",
-					"iconUrl": "https://www.google.com/favicon.ico",
+					"tooltip": "MGA",
+					"iconUrl": "https://assets.website-files.com/5bb0068c1270ad1887e1c172/5bc86650e1f4046f0103e3c4_RocketFin_Favicon32.png",
 					"action": {
 						"id": "launch-view",
 						"customData": {
-							"url": "https://www.google.com"
+							"url": "https://albert-herd-rocketfin.github.io/bdc-app"
 						}
 					}
 				},
