@@ -731,18 +731,6 @@
 					"iconUrl": "https://assets.website-files.com/5bb0068c1270ad1887e1c172/5bc86650e1f4046f0103e3c4_RocketFin_Favicon32.png",
 					"tags": ["rocketfin"]
 				}
-			],
-			"buttons": [
-				{
-					"tooltip": "MGA",
-					"iconUrl": "https://assets.website-files.com/5bb0068c1270ad1887e1c172/5bc86650e1f4046f0103e3c4_RocketFin_Favicon32.png",
-					"action": {
-						"id": "launch-view",
-						"customData": {
-							"url": "https://albert-herd-rocketfin.github.io/bdc-app"
-						}
-					}
-				}
 			]
 		},
 		"notificationProvider": {
