@@ -60,16 +60,16 @@
 		}
 	},
 	"shortcut": {
-		"company": "OpenFin",
-		"description": "A way of showing examples of what OpenFin can do.",
+		"company": "RocketFin",
+		"description": "RocketFin MGA Demo running in OpenFin", 
 		"icon": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/favicon.ico",
-		"name": "Workspace Platform Starter - v13.0.0",
+		"name": "RocketFin MGA Demo",
 		"target": ["desktop", "start-menu"]
 	},
 	"supportInformation": {
-		"company": "OpenFin",
-		"product": "Workspace Starter - Workspace Platform Starter - Client",
-		"email": "support@openfin.co",
+		"company": "RocketFin",
+		"product": "RocketFin MGA Demo - Client",
+		"email": "albert.herd@openfin.co",
 		"forwardErrorReports": true
 	},
 	"customSettings": {
