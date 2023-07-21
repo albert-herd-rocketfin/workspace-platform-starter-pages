@@ -7,11 +7,11 @@
 		"version": "31.112.75.4"
 	},
 	"startup_app": {
-		"name": "workspace-starter-how-to-workspace-platform-starter"
+		"name": "rocketfin-mga-app"
 	},
 	"platform": {
-		"name": "workspace-starter-how-to-workspace-platform-starter",
-		"uuid": "workspace-platform-starter",
+		"name": "rocketfin-mga-app",
+		"uuid": "rocketfin-mga-app",
 		"icon": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/favicon.ico",
 		"autoShow": false,
 		"providerUrl": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/platform/provider.html",
@@ -727,7 +727,7 @@
 			"apps": [
 				{
 					"display": "individual",
-					"tooltip": "RocketFin Trigger Data",
+					"tooltip": "RocketFin MGA App",
 					"iconUrl": "https://assets.website-files.com/5bb0068c1270ad1887e1c172/5bc86650e1f4046f0103e3c4_RocketFin_Favicon32.png",
 					"tags": ["rocketfin"]
 				}
