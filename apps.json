@@ -5,7 +5,7 @@
         "title": "RocketFin VAR Application",
         "description": "Rocketfin beacon.",
         "manifest": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/views/rocketfin-var-app-view.json",
-        "manifestType": "view",
+        "manifestType": "snapshot",
         "contactEmail": "contact@example.com",
         "supportEmail": "support@example.com",
         "publisher": "RocketFin",
