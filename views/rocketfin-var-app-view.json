@@ -1,7 +1,26 @@
 {
-	"url": "https://albert-herd-rocketfin.github.io/bdc-app",		    
-	"fdc3InteropApi": "1.2",
-	"interop": {
-		"currentContextGroup": "green"
-	}
+	"windows": [
+		{
+			"defaultHeight": 900,
+			"defaultLeft": 50,
+			"defaultTop": 50,
+			"defaultWidth": 1400,
+			"layout": {
+				"content": [
+					{
+						"type": "component",
+						"componentName": "view",
+						"componentState": {											
+							"url": "https://albert-herd-rocketfin.github.io/bdc-app",
+							"fdc3InteropApi": "1.2",
+							"interop": {
+								"currentContextGroup": "green"
+							},
+							"componentName": "view"
+						}
+					}
+				]
+			}
+		}
+	]
 }
