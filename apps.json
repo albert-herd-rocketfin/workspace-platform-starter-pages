@@ -1,23 +1,14 @@
 [
     {
-        "appId": "rocketfin-beacon-demo",
-        "name": "rocketfin-beacon-demo",
-        "title": "RocketFin VAR Application",
-        "description": "Rocketfin beacon.",
-        "manifest": "https://albert-herd-rocketfin.github.io/workspace-platform-starter-pages/views/rocketfin-var-app-view.json",
+        "appId": "rocketfin-macra-demo",
+        "name": "rocketfin-macra-demo",
+        "title": "RocketFin Macra Application",
+        "description": "This application is a demo of the RocketFin Macra Application",
+        "manifest": "https://localhost:3000",
         "manifestType": "snapshot",
-        "contactEmail": "contact@example.com",
-        "supportEmail": "support@example.com",
+        "contactEmail": "albert.herd@rocketfin.co",
+        "supportEmail": "albert.herd@rocketfin.co",
         "publisher": "RocketFin",
-        "intents": [
-            {
-                "name": "ViewChart",
-                "displayName": "View Chart",
-                "contexts": ["fdc3.instrument", "fdc3.instrumentList", "fdc3.portfolio", "fdc3.position"],
-                "customConfig": {}
-            }
-        ],
-        "images": [],
         "tags": ["rocketfin"]
     }
 ]
